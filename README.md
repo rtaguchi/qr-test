@@ -1,4 +1,5 @@
 # qr-test
+webアプリでQRコードを読み込むテスト。
 
 ## Project setup
 ```
